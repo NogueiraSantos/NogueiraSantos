@@ -5,7 +5,7 @@
 
   <br/>
 
-  <!-- Digitação animada (URL limpa para o proxy Camo do GitHub) -->
+  <!-- Digitação animada com a essência do Vibe Coding (URL 100% segura para GitHub Camo) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00F5D4&center=true&vCenter=true&width=620&lines=Nao+escrevo+codigo,+converso+com+a+IA;Tab,+Tab,+Accept+All,+Compilou%3F+Producao!;Arquitetura+Orientada+a+Vibes+(PDD);20.0+TPS+cravados+sem+esforco+humano;Plugins+Spigot,+PaperMC+e+Velocity" alt="Typing SVG" />
   </a>
@@ -72,47 +72,29 @@ Desenvolvedor focado em soluções de alto desempenho para servidores de Minecra
 
 <table>
   <tr>
+    <!-- HubCore -->
     <td width="50%" valign="top">
-      <h4>⚔️ SMP Core ✦ Vibe Edition</h4>
-      <p>Núcleo hardcore completo estilo DonutSMP: sistema de lifesteal dinâmico, leilão, tags e economia integrada. 100% orientado a eventos assíncronos.</p>
+      <h4>🗺️ HubCore ✦ Lobby & Network Suite</h4>
+      <p>Núcleo definitivo para hubs e lobbies de redes. Menus interativos (GUI) de altíssima taxa de atualização, seletor de instâncias anti-crash, proteção de spawn, sistema de esconder players e integração nativa com Velocity.</p>
       <p>
         <img src="https://img.shields.io/badge/PaperMC-000000?style=flat-square&logo=paper&logoColor=white" />
-        <img src="https://img.shields.io/badge/HikariCP-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Zero_Lag-00F5D4?style=flat-square" />
-      </p>
-      <p><i>"Promptado em uma tarde, rodando liso com 200 players."</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ VoyagerAC ✦ AntiCheat & Packet Engine</h4>
-      <p>Sistema preditivo e verificação estrita de pacotes brutos. Detecta Fly, Reach absurdo, Timer e Hitbox sem falsos-positivos na main thread.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PacketEvents-673AB7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Assíncrono-FF007F?style=flat-square" />
-        <img src="https://img.shields.io/badge/Ban_Automático-E11D48?style=flat-square" />
-      </p>
-      <p><i>"A IA treinou o modelo, o cheater chorou no suporte."</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📈 Flux Invest ✦ Wall Street no Minecraft</h4>
-      <p>Sistema financeiro avançado multi-servidor com bolsa de valores simulada, dividendos automáticos e integração Redis em tempo real.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cross--Server-1877F2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Economia_Dinâmica-F59E0B?style=flat-square" />
-      </p>
-      <p><i>"Prompt tão afinado que quase gerou nota fiscal."</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🗺️ Hub Core ✦ Vibe Aesthetics</h4>
-      <p>Lobby interativo de ponta com menus de alta taxa de atualização, transições fluidas de servidor via Velocity e seletor de instâncias anti-crash.</p>
-      <p>
         <img src="https://img.shields.io/badge/Velocity-1877F2?style=flat-square" />
         <img src="https://img.shields.io/badge/Custom_GUI-7928CA?style=flat-square" />
         <img src="https://img.shields.io/badge/Ultra_Clean-00F5D4?style=flat-square" />
       </p>
-      <p><i>"Se o lobby não tem aura, os jogadores nem entram."</i></p>
+      <p><i>"A aura do lobby define se o jogador fica ou sai da rede."</i></p>
+    </td>
+    <!-- WorldCore -->
+    <td width="50%" valign="top">
+      <h4>💎 WorldCore ✦ Ecossistema de Economia All-in-One</h4>
+      <p>Solução econômica completa e unificada: banco digital, sistema de leilão (AH), lojas customizadas dinâmicas, trocas seguras e mercado global. 100% assíncrono, blindado contra dupes e integrado com HikariCP/MySQL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/All--in--One-00F5D4?style=flat-square" />
+        <img src="https://img.shields.io/badge/HikariCP-10B981?style=flat-square" />
+        <img src="https://img.shields.io/badge/Anti--Dupe-E11D48?style=flat-square" />
+      </p>
+      <p><i>"Toda a economia do servidor rodando lisa sem travar uma única thread."</i></p>
     </td>
   </tr>
 </table>
