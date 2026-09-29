@@ -24,10 +24,6 @@
 
 ---
 
-### ☕ ✧ O Manifesto do VibeCoder Profissional
-
-> *"Dizem que programar exige decorar documentação de NMS e pacotes de rede. O verdadeiro **VibeCoder Profissional** sabe que basta colocar um Lo-Fi no talo, abrir o chat da IA, pedir um sistema assíncrono com PacketEvents e tomar um café enquanto o Maven compila com 0 erros."*
-
 Desenvolvedor focado em soluções de alto desempenho para servidores de Minecraft (**PaperMC, Velocity, Folia**) operando no estado da arte do **Prompt-Driven Development (PDD)**. Construo sistemas complexos, economias distribuídas e anticheats blindados utilizando IA de ponta combinada com auditoria técnica rigorosa.
 
 - 🧠 **Filosofia:** Menos `boilerplate`, mais arquitetura e visão de produto.
