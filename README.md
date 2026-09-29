@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Dinâmico / Cyberpunk & Neon Vibe -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00F5D4&height=200&section=header&text=MATHEUS%20-%20VIBECODER&fontSize=42&fontColor=ffffff&desc=Engenheiro%20de%20Prompts%20%7C%20Plugins%20Java%20%7C%2020.0%20TPS&descSize=16&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00F5D4&height=200&section=header&text=Nogueira%20-%20VIBECODER&fontSize=42&fontColor=ffffff&desc=Engenheiro%20de%20Prompts%20%7C%20Plugins%20Java%20%7C%2020.0%20TPS&descSize=16&descAlignY=70" width="100%"/>
 
   <br/>
 
@@ -23,10 +23,6 @@
 </div>
 
 ---
-
-### ☕ ✧ O Manifesto do VibeCoder Profissional
-
-> *"Dizem que programar exige decorar documentação de NMS e pacotes de rede. O verdadeiro **VibeCoder Profissional** sabe que basta colocar um Lo-Fi no talo, abrir o chat da IA, pedir um sistema assíncrono com PacketEvents e tomar um café enquanto o Maven compila com 0 erros."*
 
 Desenvolvedor focado em soluções de alto desempenho para servidores de Minecraft (**PaperMC, Velocity, Folia**) operando no estado da arte do **Prompt-Driven Development (PDD)**. Construo sistemas complexos, economias distribuídas e anticheats blindados utilizando IA de ponta combinada com auditoria técnica rigorosa.
 
