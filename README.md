@@ -17,7 +17,6 @@
     <img src="https://img.shields.io/badge/Discord-nogueirasantos_21094-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Vibe-100%25_Alinhada-7928CA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TPS_Servidor-20.0_Cravado-00F5D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Promptando_no_Cursor-FF007F?style=for-the-badge" />
 
 </div>
@@ -101,7 +100,7 @@ Desenvolvedor focado em soluções de alto desempenho para servidores de Minecra
 
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=matheuussants004-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=FF007F" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nogueira Santos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=FF007F" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheuussants004-gif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7928CA&text_color=c9d1d9" height="165" />
 
   <br/><br/>
