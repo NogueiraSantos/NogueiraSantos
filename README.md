@@ -104,15 +104,6 @@ Desenvolvedor focado em soluções de alto desempenho para servidores de Minecra
   <img src="https://github-readme-stats-fast.vercel.app/api?username=NogueiraSantos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=FF007F" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NogueiraSantos&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7928CA&text_color=c9d1d9" height="165" />
 
-  <br/><br/>
-
-  <!-- Cobrinha Comendo os Commits -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NogueiraSantos/NogueiraSantos/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NogueiraSantos/NogueiraSantos/output/snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/NogueiraSantos/NogueiraSantos/output/snake-dark.svg" width="90%">
-  </picture>
-
 </div>
 
 ---
