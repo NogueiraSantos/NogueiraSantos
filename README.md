@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Dinâmico / Cyberpunk & Neon Vibe -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00F5D4&height=200&section=header&text=Nogueira%20-%20VIBECODER&fontSize=42&fontColor=ffffff&desc=Engenheiro%20de%20Prompts%20%7C%20Plugins%20Java%20%7C%2020.0%20TPS&descSize=16&descAlignY=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00F5D4&height=200&section=header&text=MATHEUS%20-%20VIBECODER&fontSize=42&fontColor=ffffff&desc=Engenheiro%20de%20Prompts%20%7C%20Plugins%20Java%20%7C%2020.0%20TPS&descSize=16&descAlignY=70" width="100%"/>
 
   <br/>
 
@@ -13,15 +13,20 @@
   <br/><br/>
 
   <!-- Badges de Status & Vibe -->
-  <a href="https://discord.com/users/1554588125903323140">
-    <img src="https://img.shields.io/badge/Discord-nogueirasantos_21094-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.gg/shu5XcGygu">
+    <img src="https://img.shields.io/badge/Discord-@segundacontattk-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Vibe-100%25_Alinhada-7928CA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TPS_Servidor-20.0_Cravado-00F5D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Promptando_no_Cursor-FF007F?style=for-the-badge" />
 
 </div>
 
 ---
+
+### ☕ ✧ O Manifesto do VibeCoder Profissional
+
+> *"Dizem que programar exige decorar documentação de NMS e pacotes de rede. O verdadeiro **VibeCoder Profissional** sabe que basta colocar um Lo-Fi no talo, abrir o chat da IA, pedir um sistema assíncrono com PacketEvents e tomar um café enquanto o Maven compila com 0 erros."*
 
 Desenvolvedor focado em soluções de alto desempenho para servidores de Minecraft (**PaperMC, Velocity, Folia**) operando no estado da arte do **Prompt-Driven Development (PDD)**. Construo sistemas complexos, economias distribuídas e anticheats blindados utilizando IA de ponta combinada com auditoria técnica rigorosa.
 
@@ -100,7 +105,7 @@ Desenvolvedor focado em soluções de alto desempenho para servidores de Minecra
 
 <div align="center">
 
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nogueira Santos&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=FF007F" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=matheuussants004-gif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F5D4&text_color=c9d1d9&icon_color=FF007F" height="165" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=matheuussants004-gif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7928CA&text_color=c9d1d9" height="165" />
 
   <br/><br/>
