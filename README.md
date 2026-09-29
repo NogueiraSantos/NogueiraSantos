@@ -13,7 +13,7 @@
   <br/><br/>
 
   <!-- Badges de Status & Vibe -->
-  <a href="[https://discord.gg/shu5XcGygu](https://discord.com/users/1554588125903323140)">
+  <a href="https://discord.com/users/1554588125903323140">
     <img src="https://img.shields.io/badge/Discord-nogueirasantos_21094-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Vibe-100%25_Alinhada-7928CA?style=for-the-badge" />
